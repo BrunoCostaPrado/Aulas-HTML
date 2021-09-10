@@ -1,0 +1,48 @@
+h1 {
+    max-width: max-content;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+p {
+    max-width: max-content;
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+img {
+    width: "400px";
+    height: "400px";
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+
+.rodape {
+    background-color: rgb(red, green, blue);
+    color: #abcb75;
+}
+
+#botao01 {
+    border: 2px solid red;
+    background-color: blue;
+}
+
+table,
+tr,
+td,
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.2em;
+}
